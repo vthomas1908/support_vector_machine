@@ -9,3 +9,4 @@ This also uses code (not included in git) from  SVM
 light
 (http://svmlight.joachims.org/)
 
+The point of the project is to determine spam email
